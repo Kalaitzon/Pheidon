@@ -7,7 +7,7 @@ Pheidon was a king of Argos in the 7th century BC, credited with the first syste
 weights and measures in the Greek world. His name comes from the verb *pheidomai*,
 to spare or economise.
 
-Greek and English interface, light and dark themes, works offline.
+Greek and English interface, light and dark themes, installable on a phone.
 
 ---
 
@@ -102,9 +102,12 @@ store.
 **iPhone** — open the site in **Safari**, tap the Share button, then *Add to Home
 Screen*. Safari is required: on iOS only Safari can install a web app.
 
-Once installed it runs in its own window without a browser bar, keeps its icon on
-the home screen, and opens without a connection. Updates arrive on their own, with
-no store review.
+Once installed it runs in its own window without a browser bar and keeps its icon
+on the home screen. Updates arrive on their own, with no store review.
+
+The app shell is cached, so it opens without a connection, but your data lives in
+Supabase and needs one to load. Offline entry with later sync is not implemented
+yet.
 
 ---
 
@@ -131,4 +134,10 @@ to enter them are missing.
 
 ---
 
-© 2026 Pheidon · Developed by Ioannis Kalaitzidis. All rights reserved.
+## Licence
+
+© 2026 Ioannis Kalaitzidis. All rights reserved.
+
+This repository is public for reference and portfolio purposes. Visible source
+is not open source: no permission is granted to copy, modify, deploy or reuse
+it. See `LICENSE` for the full terms.
