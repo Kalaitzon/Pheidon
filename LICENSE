@@ -1,0 +1,52 @@
+PHEIDON — PROPRIETARY LICENSE
+
+Copyright (c) 2026 Ioannis Kalaitzidis. All rights reserved.
+
+This repository is published for reference, review and portfolio purposes only.
+Making the source code visible does not place it in the public domain and does
+not grant any licence to use it.
+
+WHAT IS NOT PERMITTED
+
+Without prior written permission from the copyright holder, no person may:
+
+  1. copy, reproduce or redistribute this software, in whole or in part;
+  2. modify it, adapt it, or create derivative works from it;
+  3. use it, or any part of it, in any product or service, whether commercial
+     or non-commercial;
+  4. deploy or host it, publicly or privately, for anyone other than the
+     copyright holder;
+  5. sublicense, sell, rent or otherwise transfer any rights in it;
+  6. remove or alter this notice, or any copyright or attribution notice
+     contained in the source files.
+
+WHAT IS PERMITTED
+
+  1. Reading the source code.
+  2. Quoting short excerpts for the purpose of commentary, review, teaching or
+     technical discussion, with attribution to the author and a link to this
+     repository.
+  3. Running the software locally for the sole purpose of evaluating it, on the
+     condition that it is not deployed, published or made available to any
+     third party.
+
+NAME AND BRANDING
+
+The name "Pheidon", the balance-scale mark and the visual identity of the
+application are not covered by the permissions above and may not be used to
+identify any other product or service.
+
+NO WARRANTY
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and non-infringement. It is a personal
+finance tracking tool and does not constitute financial, investment, tax or
+legal advice. In no event shall the author be liable for any claim, damages or
+other liability arising from, out of or in connection with the software or its
+use.
+
+CONTACT
+
+For permission requests, please contact the copyright holder through the
+GitHub profile associated with this repository.
