@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# Τα κλειδιά δεν ανεβαίνουν ΠΟΤΕ στο git
+.env
+.env.local
+.env.*.local
+
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
